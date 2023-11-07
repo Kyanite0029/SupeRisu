@@ -1,5 +1,5 @@
 {
-  "name": "risuai",
+  "name": "superisu",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -89,5 +89,8 @@
     "vite": "^4.4.5",
     "vite-plugin-top-level-await": "^1.3.1",
     "vite-plugin-wasm": "^3.2.2"
+  },
+  "browser": {
+    "crypto": false
   }
 }
